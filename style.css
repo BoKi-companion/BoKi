@@ -63,3 +63,11 @@ footer {
 }
 
 footer a { color: #4facfe; text-decoration: none; font-weight: bold; }
+
+.boki-avatar {
+    width: 60px; /* Ajustează mărimea după bunul plac */
+    height: auto;
+    vertical-align: middle;
+    margin-right: 10px;
+    border-radius: 50%; /* Șterge această linie dacă vrei poza pătrată */
+}
